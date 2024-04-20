@@ -8,6 +8,8 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Powerbi-282C34?logo=powerbi&logoColor=F2C811" alt="Powerbi logo" title="Powerbi" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoftsqlserver logo" title="Microsoft Sql Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=FFFFFF" alt="Dotnet logo" title=".NET" height="25" /></span>
