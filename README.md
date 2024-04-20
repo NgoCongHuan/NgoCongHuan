@@ -36,6 +36,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoftpowerpoint-282C34?logo=microsoftpowerpoint&logoColor=B7472A" alt="Microsoftpowerpoint logo" title="Microsoftpowerpoint" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Adobephotoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="Adobephotoshop logo" title="Adobephotoshop" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
