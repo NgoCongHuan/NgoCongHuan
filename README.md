@@ -8,9 +8,9 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="Microsoftsqlserver logo" title="Microsoftsqlserver" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=#CC2927" alt="Microsoftsqlserver logo" title="Microsoft Sql Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=FFFFFF" alt="Dotnet logo" title="Dotnet" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=FFFFFF" alt="Dotnet logo" title=".NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -20,15 +20,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Visualstudio-282C34?logo=visualstudio&logoColor=FFCA28" alt="Visualstudio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Googlecolab-282C34?logo=googlecolab&logoColor=21759B" alt="Googlecolab logo" title="Google Colab" height="25" /></span>
 &nbsp;
 
 <br>
