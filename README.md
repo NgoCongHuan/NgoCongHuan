@@ -24,9 +24,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Visualstudio-282C34?logo=visualstudio&logoColor=FFCA28" alt="Visualstudio logo" title="Visual Studio" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Visualstudio-282C34?logo=visualstudio&logoColor=#5C2D91" alt="Visualstudio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Googlecolab-282C34?logo=googlecolab&logoColor=21759B" alt="Googlecolab logo" title="Google Colab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Googlecolab-282C34?logo=googlecolab&logoColor=#F9AB00" alt="Googlecolab logo" title="Google Colab" height="25" /></span>
 &nbsp;
 
 <br>
