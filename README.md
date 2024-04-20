@@ -12,7 +12,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoftsqlserver logo" title="Microsoft Sql Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=FFFFFF" alt="Dotnet logo" title=".NET" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title=".NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
