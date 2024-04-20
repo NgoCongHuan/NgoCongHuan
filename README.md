@@ -28,6 +28,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Googlecolab-282C34?logo=googlecolab&logoColor=#F9AB00" alt="Googlecolab logo" title="Google Colab" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Microsoftword-282C34?logo=microsoftword&logoColor=#2B579A" alt="Microsoftword logo" title="Microsoft Word" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoftexcel-282C34?logo=microsoftexcel&logoColor=#217346" alt="Microsoftexcel logo" title="Microsoft Excel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoftpowerpoint-282C34?logo=microsoftpowerpoint&logoColor=#B7472A" alt="Microsoftpowerpoint logo" title="Microsoftpowerpoint" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
