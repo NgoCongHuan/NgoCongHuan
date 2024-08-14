@@ -70,7 +70,7 @@
   <a href="https://www.facebook.com/huan.ngo.94214/?locale=vi_VN" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/hu%C3%A2n-ng%C3%B4-85279b30b/" target="blank">
+  <a href="https://www.linkedin.com/in/huanngocong/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="https://www.instagram.com/huaan.ngoo/" target="blank">
