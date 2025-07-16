@@ -1,4 +1,4 @@
-# 👨‍💻🙋‍♂️🧗‍♂️🕺🏃‍♂️‍➡️ Ngo Cong Huan
+# 👨‍💻 Ngo Cong Huan
 
 **`Data Analyst | Data Engineer`**
 
